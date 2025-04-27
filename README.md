@@ -8,7 +8,7 @@ A **machine learning-based system** that predicts **weather conditions** and **o
 
 This project integrates **weather prediction** and **flight path optimization** to enhance **aviation safety and efficiency**. It combines **machine learning models** for weather forecasting with **real-time flight tracking** to suggest optimized flight routes.  
 
-### 🔹 Key Features  
+### 🔹 Future and Current Key Features  
 ✅ **Real-time Weather Tracking** 🌦  
 ✅ **Historical Weather Prediction** 📅  
 ✅ **Live Flight Tracking & Route Optimization** ✈️  
